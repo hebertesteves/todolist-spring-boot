@@ -69,6 +69,20 @@ O sistema permite que cada usuário gerencie suas próprias tarefas com seguran�
    docker run -p 8080:8080 todolist-spring
    ```
 
+## Deploy ☁️
+
+Este projeto está publicado na plataforma **Render** utilizando **Docker**.  
+
+🔗 Acesse a aplicação em produção:  
+👉 [https://todolist-rocket-gdd3.onrender.com](https://todolist-rocket-gdd3.onrender.com)
+
+📌 Rotas principais:
+- `POST /users/` → cadastro de usuário  
+- `POST /tasks/` → criação de tarefas (com autenticação Basic)  
+- `GET /tasks/` → listar tarefas do usuário autenticado  
+- `PUT /tasks/{id}` → atualizar tarefa  
+- `DELETE /tasks/{id}` → remover tarefa  
+
 ---
 
 ## ✅ Funcionalidades  
@@ -93,7 +107,8 @@ O sistema permite que cada usuário gerencie suas próprias tarefas com seguran�
 - **H2 Database**  
 - **BCrypt** (criptografia de senhas)  
 - **Maven**  
-- **Docker**  
+- **Docker**
+- **Render (Deploy)**
 
 ---
 
