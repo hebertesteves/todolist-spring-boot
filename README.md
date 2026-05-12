@@ -11,7 +11,7 @@ Projeto desenvolvido como estudo de **Spring Boot** e boas práticas de desenvol
 - [Tecnologias utilizadas](https://github.com/hebertesteves/todolist-spring-boot#%EF%B8%8F-tecnologias-utilizadas)  
 - [Estrutura do projeto](https://github.com/hebertesteves/todolist-spring-boot#-estrutura-do-projeto)  
 - [Rotas da API](https://github.com/hebertesteves/todolist-spring-boot#-tarefas)  
-- [Licença](#licença-)  
+- [Licença](https://github.com/hebertesteves/todolist-spring-boot#-licença)  
 
 ---
 
